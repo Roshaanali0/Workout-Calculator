@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/workout-tracker.git
+git clone https://github.com/roshaanmehar/Workout-Calculator.git
 cd workout-tracker
 ```
 
@@ -68,26 +68,26 @@ cd workout-tracker
 
 The frontend should be running on `http://localhost:3000` and the backend on `http://localhost:5000`.
 
-## Once you have succssfully installed all the files and the required dependencies, and you start the frontend and the backed, on the browser you will see this on your screen.
+### Once you have succssfully installed all the files and the required dependencies, and you start the frontend and the backed, on the browser you will see this on your screen.
 <img src="https://github.com/roshaanmehar/Workout-Calculator/blob/main/youmustbeloggedin.png" width="500">
 
-## Then if you navigate to the login page you should see something like this:
+### Then if you navigate to the login page you should see something like this:
 <img src="https://github.com/roshaanmehar/Workout-Calculator/blob/main/loginpage.png" width="500">
 - It will not let you continue unless you make an account and signup, to do that you will have to go to the signup page.
 
-## On the signup page you should see something like this:
+### On the signup page you should see something like this:
 <img src="https://github.com/roshaanmehar/Workout-Calculator/blob/main/signuppage.png" width="500">
 
-## Upon successfull signup you will be greeted by the homepage, where you can add and remov workouts. On the top right corner you should see your email which you used to signup.
+### Upon successfull signup you will be greeted by the homepage, where you can add and remov workouts. On the top right corner you should see your email which you used to signup.
 <img src="https://github.com/roshaanmehar/Workout-Calculator/blob/main/homepage.png" width="500">
 
-## If you do ```sh npm start ``` in your terminal, in the frontend folder, and it executes successfully, you should see output something like this:
+### If you do `npm start` in your terminal, in the frontend folder, and it executes successfully, you should see output something like this:
 <img src="https://github.com/roshaanmehar/Workout-Calculator/blob/main/frontendterminaloutput.png" width="500">
 - Ignore the deprecated warnings. They are not fatal or breaking.
 
-## If you do ```sh npm start ``` in your terminal, in the backend folder, and it executes successfully, you should see output something like this:
+### If you do `npm start` in your terminal, in the backend folder, and it executes successfully, you should see output something like this:
 <img src="https://github.com/roshaanmehar/Workout-Calculator/blob/main/backendterminaloutput.png" width="500">
-- Requests like these ```sh /api/user/login POST ```, ```sh /api/user/signup POST ```. ```sh /api/workouts GET ```, ```sh /api/workouts POST ``` are normal. 
+- Requests like these `/api/user/login POST`, `/api/user/signup POST`. `/api/workouts GET`, `/api/workouts POST` are normal. 
 
 
 ## API Endpoints
